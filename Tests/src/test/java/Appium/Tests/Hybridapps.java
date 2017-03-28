@@ -25,7 +25,7 @@ public class Hybridapps {
 	public static AndroidDriver<MobileElement> driver;
     public static String destDir;
     public static DateFormat dateFormat;
-    
+    //created GIT hub rep through eclipse plugin
 	public static String getRandomString(int length) {
 		StringBuilder sb = new StringBuilder();
 		String characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
